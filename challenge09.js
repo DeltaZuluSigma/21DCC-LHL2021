@@ -6,7 +6,7 @@
      An array of the astronauts' jobs
 */
 const listAstronautJobs = (roster) => {
-  /*** Submitted Code ***
+  /*** Old Code ***
   // Declare an empty array 'jobList'
   let jobList = [];
   // Loop through the roster of astronauts
